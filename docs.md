@@ -22,3 +22,7 @@
 ## ASP.NET MVC 
 
 * (https://www.syncfusion.com/resources/techportal/details/ebooks/aspnetmvc)
+
+## Entity Framework
+
+* (https://www.syncfusion.com/resources/techportal/details/ebooks/entityframework)
