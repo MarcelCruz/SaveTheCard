@@ -2,7 +2,6 @@ SaveTheCard
 ========
 SaveTheCard consiste em um projeto criado para ajudar as pessoas a controlar seus gastos no cartão de crédito.
 
-## Tecnologias a serem utilizadas
 ### Front-End
 * React (https://facebook.github.io/react/)
 * Gulp (http://gulpjs.com/)
