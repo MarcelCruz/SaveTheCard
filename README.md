@@ -12,7 +12,6 @@ SaveTheCard consiste em um projeto criado para ajudar as pessoas a controlar seu
 * ASP.NET MVC WebApi2 (Owin) (http://www.asp.net/web-api)
 * Entity Framework (http://www.asp.net/entity-framework)
 * Castle Windsor (http://www.castleproject.org/container/index.html)
-* 
 
 ### LICENSE
 
