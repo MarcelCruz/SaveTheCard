@@ -27,4 +27,4 @@
 
 ## Entity Framework
 
-* (https://www.syncfusion.com/resources/techportal/details/ebooks/entityframework)
+* https://www.syncfusion.com/resources/techportal/details/ebooks/entityframework
