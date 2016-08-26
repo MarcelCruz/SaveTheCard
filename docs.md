@@ -1,23 +1,23 @@
 #Conteúdo para estudos
 
 ## AngularJS
-* Vídeos sobre Scopes (https://egghead.io/lessons/angularjs-isolate-scope-expression-binding)
+* Vídeos sobre Scopes https://egghead.io/lessons/angularjs-isolate-scope-expression-binding
 
 ## Gulp 
 
-* (https://www.syncfusion.com/resources/techportal/details/ebooks/Gulp_Succinctly)
+* https://www.syncfusion.com/resources/techportal/details/ebooks/Gulp_Succinctly
 
 ## Owin 
 
-* (https://www.syncfusion.com/resources/techportal/details/ebooks/owin)
+* https://www.syncfusion.com/resources/techportal/details/ebooks/owin
 
 ## GIT
 
-* (https://www.syncfusion.com/resources/techportal/details/ebooks/git)
+* https://www.syncfusion.com/resources/techportal/details/ebooks/git
 
 ## GitHub 
 
-* (https://www.syncfusion.com/resources/techportal/details/ebooks/GitHub_Succinctly)
+* https://www.syncfusion.com/resources/techportal/details/ebooks/GitHub_Succinctly
 
 
 ## ASP.NET MVC 
