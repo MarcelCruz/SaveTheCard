@@ -6,7 +6,14 @@ SaveTheCard consiste em um projeto criado para ajudar as pessoas a controlar seu
 
 
 ## Tecnologias
-AngularJS
-Gulp
-Bower
-Npm
+### Front-End
+-AngularJS
+-Gulp
+-Bower
+-Npm
+
+### Back-End
+*ASP.NET MVC WebApi2 (Owin)
+*Entity Framework
+*Ninject
+
