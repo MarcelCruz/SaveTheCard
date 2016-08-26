@@ -5,7 +5,7 @@ SaveTheCard consiste em um projeto criado para ajudar as pessoas a controlar seu
 
 
 ### Front-End
-* React (https://facebook.github.io/react/)
+* AngularJS (https://angularjs.org/)
 * Gulp (http://gulpjs.com/)
 * Bower (https://bower.io/)
 * Npm (https://www.npmjs.com/)
