@@ -9,6 +9,7 @@ SaveTheCard consiste em um projeto criado para ajudar as pessoas a controlar seu
 * Gulp (http://gulpjs.com/)
 * Bower (https://bower.io/)
 * Npm (https://www.npmjs.com/)
+* Browserify (http://browserify.org/)
 
 ### Back-End
 * ASP.NET MVC WebApi2 (Owin) (http://www.asp.net/web-api)
