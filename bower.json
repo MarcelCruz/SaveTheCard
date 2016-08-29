@@ -3,7 +3,8 @@
   "description": "A management system for credit cards bills",
   "main": "index.js",
   "authors": [
-    "Bruno Castro"
+    "Bruno Castro",
+    "Marcel Cruz"
   ],
   "license": "MIT",
   "keywords": [
