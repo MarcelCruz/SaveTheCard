@@ -1,0 +1,23 @@
+{
+  "name": "SaveTheCard",
+  "description": "A management system for credit cards bills",
+  "main": "index.js",
+  "authors": [
+    "Bruno Castro"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "credit",
+    "card",
+    "management",
+    "bills"
+  ],
+  "homepage": "https://github.com/mcastrobruno/SaveTheCard",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
