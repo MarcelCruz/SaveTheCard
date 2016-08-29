@@ -1,5 +1,5 @@
 {
-  "name": "SaveTheCard",
+  "name": "save.the.card",
   "description": "A management system for credit cards bills",
   "main": "index.js",
   "authors": [
@@ -19,5 +19,8 @@
     "bower_components",
     "test",
     "tests"
-  ]
+  ],
+  "dependencies": {
+    "angular": "^1.5.8"
+  }
 }
